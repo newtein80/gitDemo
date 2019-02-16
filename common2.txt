@@ -7,4 +7,5 @@
 
 function b(){
     string b = "b";
+    string c = "c";
 }
