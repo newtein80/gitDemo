@@ -6,3 +6,6 @@
 function a(){
     string test = "test";
 }
+function a(){
+    12
+}
