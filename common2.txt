@@ -1,3 +1,11 @@
-function a(){
-    string x = "x";
+
+
+
+
+
+
+
+function b(){
+    string b = "b";
+    string c = "c";
 }
