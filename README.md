@@ -55,3 +55,7 @@ https://cpdev.tistory.com/51
 https://gdtbgl93.tistory.com/m/63?category=774133
 
 https://stackoverflow.com/questions/50111060/fatal-refusing-to-merge-unrelated-histories-after-adding-git-remote
+
+git 마지막 commit, push 취소
+
+https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
