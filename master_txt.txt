@@ -1,3 +1,0 @@
-function master_func(){
-    string m = "m";
-}

@@ -1,9 +1,0 @@
-function b(){
-    
-}
-function a(master, common){
-    
-}
-function c(){
-    
-}
