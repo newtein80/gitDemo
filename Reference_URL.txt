@@ -31,3 +31,29 @@ https://www.google.com/search?newwindow=1&safe=off&ei=gC5pXIfAJKLdmAXbkJeoAg&q=p
 https://3dmpengines.tistory.com/1771
 
 You don't have any remotes which have extended integration settings configured; you need to edit your remotes to add details such as the hosting type and base URL. Click the Settings button to open your remote list.
+
+https://www.google.com/search?q=%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC+%EA%B3%84%EC%A0%95+%EB%B3%80%EA%B2%BD&ei=XWdpXI7PLsW3mAWtiqqoBA&start=20&sa=N&ved=0ahUKEwjO8fmr9cLgAhXFG6YKHS2FCkU4ChDy0wMIdw&biw=1920&bih=937
+
+https://opentutorials.org/course/2708/15428
+
+https://www.youtube.com/watch?v=Wn0uN_WvUrA&list=PLuHgQVnccGMA4LgLoH07e7uEbRbi92Dd2&index=4
+
+https://www.youtube.com/watch?v=8AtHcXnJSdA&list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX
+
+https://nextstep.camp/courses/-L6-ES5-WFWp9mKmOhE-/-L6-Em9DxKW0ylqc_PuX/lessons/-L6-Ep2TpwnVg2Qwtx_c
+
+https://jojoldu.tistory.com/16
+
+https://steps4great.tistory.com/15
+
+https://coding-factory.tistory.com/249
+
+https://opentutorials.org/course/1492/8037
+
+소스트리 계정 변경
+
+https://blog.yg.pe.kr/359
+
+bitbucket 계정 삭제
+
+https://ignita.github.io/2018/03/21/sourcetree-uninstall/
