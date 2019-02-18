@@ -131,6 +131,8 @@ git 마지막 commit, push 취소
 
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 
+https://superuser.com/questions/1319288/vs-code-drag-tab-to-new-window/1319353
+
 extensions
 
 https://www.vobour.com/vscode-%EC%B6%94%EC%B2%9C-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98%EA%B3%BC-%EC%84%B8%ED%8C%85-vscode-recommended-e
@@ -188,3 +190,5 @@ https://noooop.tistory.com/entry/ESLint-%EC%84%A4%EC%A0%95?category=998451
 https://backend-intro.vlpt.us/1/01.html
 
 https://okky.kr/article/463267
+
+https://superuser.com/questions/1319288/vs-code-drag-tab-to-new-window/1319353
