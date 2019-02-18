@@ -176,3 +176,15 @@ https://www.vobour.com/vscode-%EC%B6%94%EC%B2%9C-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%
 https://marketplace.visualstudio.com/items?itemName=joelday.docthis
 
 https://www.sitepoint.com/vs-code-extensions-javascript-developers/
+
+vscode eslint 사용법
+
+https://bimmermac.com/1242
+
+https://bimmermac.com/1264
+
+https://noooop.tistory.com/entry/ESLint-%EC%84%A4%EC%A0%95?category=998451
+
+https://backend-intro.vlpt.us/1/01.html
+
+https://okky.kr/article/463267
