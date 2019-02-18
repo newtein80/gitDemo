@@ -8,6 +8,6 @@ public class WebRestController{
 
     @GetMapping
     public String hello() {
-        return "HelloWorld !!";
+        return "HelloWorld ~!!!";
     }
 }

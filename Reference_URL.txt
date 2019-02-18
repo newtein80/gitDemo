@@ -128,3 +128,15 @@ https://stackoverflow.com/questions/50111060/fatal-refusing-to-merge-unrelated-h
 git 마지막 commit, push 취소
 
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+
+extensions
+
+Paste as JSON
+
+https://vscode.tistory.com/entry/Project-Manager
+
+https://www.sitepoint.com/vs-code-extensions-javascript-developers/
+
+https://ardalis.com/calculate-code-metrics-in-vs2017-for-core-and-standard-projects
+
+https://www.sitepoint.com/vs-code-extensions-javascript-developers/
