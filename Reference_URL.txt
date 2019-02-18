@@ -57,3 +57,16 @@ https://blog.yg.pe.kr/359
 bitbucket 계정 삭제
 
 https://ignita.github.io/2018/03/21/sourcetree-uninstall/
+
+https://stackoverflow.com/questions/4359099/git-branch-named-origin-head-origin-master
+
+/*
+It is just a pointer to master, a symbolic link if you wish. You can safely delete it by doing the following in a terminal (or git bash/cygwin for windows users):
+
+navigate to your repository
+execute: git remote set-head origin -d
+now it should be gone:
+
+$ git branch -r
+origin/master
+*/
